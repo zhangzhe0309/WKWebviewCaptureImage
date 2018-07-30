@@ -1,1 +1,2 @@
 # WKWebviewCaptureImage
+# WKWebviewCaptureImage是为了wkwebview长截屏使用
